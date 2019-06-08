@@ -1,10 +1,10 @@
 ---
 name: Sean
-id: sean
-image:
+id: Sean
+image: /images/avatar.jpg
 cover:
-website:
-twitter:
+website: https://seandees.dev
+twitter: https://twitter.com/taydees
 facebook:
 location:
 ---

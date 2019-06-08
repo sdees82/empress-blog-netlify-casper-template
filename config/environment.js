@@ -38,7 +38,7 @@ module.exports = function(environment) {
       },{
         label: 'Shop',
         route:'page',
-        id: ''
+        id: 'page'
       }]
     },
 

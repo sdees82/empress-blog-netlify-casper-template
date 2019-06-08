@@ -24,17 +24,20 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'empress-blog',
-      description: 'Static Blog System - Built with Ember',
-      coverImage: '/images/blog-cover.jpg',
+      title: ``,
+      description: '',
+      coverImage: '/images/consolelog-logo.png',
 
       navigation: [{
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by Chris Manson',
+        label: 'Our Mission',
         route: 'page',
         id: 'chris-manson'
+      },{
+        label: 'Shop',
+        route:''
       }]
     },
 

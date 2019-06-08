@@ -5,7 +5,7 @@
   "description": "Small description for empress-blog-casper goes here",
   "repository": "",
   "license": "MIT",
-  "author": "",
+  "authors": "",
   "directories": {
     "doc": "doc",
     "test": "tests"

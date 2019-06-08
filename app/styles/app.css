@@ -1,0 +1,30 @@
+
+a{
+    color: #d73273;
+}
+body{
+    background:#10171e;
+}
+
+.post-feed{
+    margin-top: 0px !important;
+}
+/* .site-header{
+    background: #333;
+} */
+.site-header{
+    background-repeat: no-repeat;
+    background-color: #10171e;
+    background-size: 80%;
+}
+
+.site-header:before {
+    background: none;
+}
+
+.nav li a{
+    opacity: 1;
+}
+.page-template .site-main, .post-template .site-main, .site-header:after, .site-footer{
+    background: #10171e;
+}

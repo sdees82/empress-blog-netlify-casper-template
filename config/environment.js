@@ -24,8 +24,6 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: ``,
-      description: '',
       coverImage: '/images/consolelog-logo.png',
 
       navigation: [{
@@ -34,11 +32,10 @@ module.exports = function(environment) {
       }, {
         label: 'Our Mission',
         route: 'page',
-        id: 'chris-manson'
+        id:"our-mission"
       },{
         label: 'Shop',
-        route:'page',
-        id: 'page'
+        link: 'https://consolelog.shop'
       }]
     },
 

@@ -21,7 +21,9 @@ body{
 .site-header:before {
     background: none;
 }
-
+.site-footer-nav{
+ display: none;
+}
 .nav li a{
     opacity: 1;
 }

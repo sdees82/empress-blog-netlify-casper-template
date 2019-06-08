@@ -6,7 +6,7 @@ imageMeta:
   attributionLink:
 featured: true
 authors:
-  - Sean 
+  - ConsoleLog
 date: Tue Jun 08 2019 18:59:59 GMT+0100 (IST)
 tags:
   - Web Development

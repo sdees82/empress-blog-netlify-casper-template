@@ -1,5 +1,5 @@
 
-a{
+a, .post-full-meta-date, .date-divider{
     color: #d73273;
 }
 body{
@@ -24,6 +24,9 @@ body{
 
 .nav li a{
     opacity: 1;
+}
+.post-full-title{
+    color: #fff;
 }
 .page-template .site-main, .post-template .site-main, .site-header:after, .site-footer{
     background: #10171e;

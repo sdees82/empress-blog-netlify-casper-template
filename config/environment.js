@@ -37,7 +37,8 @@ module.exports = function(environment) {
         id: 'chris-manson'
       },{
         label: 'Shop',
-        route:''
+        route:'page',
+        id: ''
       }]
     },
 

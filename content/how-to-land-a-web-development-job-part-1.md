@@ -40,7 +40,7 @@ The interview process will be different for each company, but chances are it wil
 
 
 #### The danger
-If you have dreams of creating cool applications or working for Google/Amazon/Facebook etc, this isn't it. This is not the way. 
+If you have dreams of creating cool applications or working for Google/Amazon/Facebook etc, this isn't it. Let's not kid ourselves. 
 
 Chances are you will probably be the only developer. There might be another guy who edited a Myspace page years ago and has been running the web department for the company since then, but that will probably be it. There will be no code reviews, pair-programming, github, or even a development methodology. Since you'll be dealing with content management systems, you probably won't be writing actual code everyday. Also, there's no quality assurance department. Actually, *you* are the quailty assurance department.
 
@@ -48,10 +48,11 @@ There will probably also be an issue with pay. Oh, you've read about all those d
 
 The true danger is in this role lies in routine. You're no longer working at the job you hated. You are now in the industry and probably doing very easy tasks that you complete with your eyes closed. Now, if you don't want anything more than this, you've made it! Congrats on doing the work and becoming an employed developer! 
 
-If you do want something more than this, then you can't stop learning learning. There's no time to pat yourself on the back, the work has just begun. Once you feel comfortable, get with the other developer and try to start using modern development practices. implement code reviews, start using github or some other source of version control and also throw in some software development methodology. Why is all this necessary you ask? Simply put, you won't go to "the next level" without having experience with these tools. When you start applying to tech companies and you don't have experience with those techonologies, you're not going to get the job. Not today.
+If you do want something more than this, then you can't stop learning (actually, you can never stop learning in this field). There's no time to pat yourself on the back, the work has just begun. Once you feel comfortable, get with the other developer (or do it yourself) and try to start using modern development practices. Implement code reviews, start using github or some other source of version control and also throw in some software development methodology. Why is all this necessary you ask? Simply put, you won't go to "the next level" without having experience with these tools. When you start applying to tech companies and you don't have experience with those techonologies, chances are you're not going to get the job. 
+
 
 #### Who should take this path?
-This path is probably best for people who are looking to make a career change and want to leave their current job in tech ASAP. It's a great way to get employed without having deep knowledge of data structures & algorithms or even people who aren't great with using JavaScript. If you know how to build a website, you can find a job.
+This path is probably best for people who are looking to make a career change and want to leave their current job ASAP. It's a great way to get employed without having deep knowledge of data structures & algorithms or even people who aren't great with using JavaScript. If you know how to build a website, you can find a job.
 
 
 ---

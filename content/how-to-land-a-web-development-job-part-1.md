@@ -1,5 +1,5 @@
 ---
-title: How to land your first Web Development job - Part 1
+title: How to Land Your First Web Development Job - Part 1
 image: /images/welcome.jpg
 imageMeta:
   attribution:
